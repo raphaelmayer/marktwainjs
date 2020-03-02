@@ -1,0 +1,11 @@
+{
+  "name": "marktwainjs",
+  "version": "1.0.0",
+  "description": "(for lack of a better name)",
+  "main": "EXAMPLES.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
